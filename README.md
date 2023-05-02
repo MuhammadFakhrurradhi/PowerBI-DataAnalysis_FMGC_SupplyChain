@@ -31,5 +31,15 @@ Key Insights:
 
 	Overall, a comprehensive review of the supply chain processes, including production, estimation, and delivery, may be required to identify the root causes of the delays and poor performance in key metrics.
 
+![Supply Chain Final_001](https://user-images.githubusercontent.com/131879017/235760106-7a3ec209-0f31-4e7b-96ea-f978478d7e5e.jpg)
+![Supply Chain Final_002](https://user-images.githubusercontent.com/131879017/235760130-bca749e7-7c65-42f4-8c0d-8fb74aa23ce3.jpg)
+![Supply Chain Final_003](https://user-images.githubusercontent.com/131879017/235760162-53ef1937-0b13-4f85-b5cb-bda1a065db27.jpg)
+![Supply Chain Final_004](https://user-images.githubusercontent.com/131879017/235760221-793ac5d9-0ac0-4d78-83a0-3eca4a45c674.jpg)
+![Supply Chain Final_005](https://user-images.githubusercontent.com/131879017/235760231-488ef341-374e-483c-91c4-4f672fe1f3c9.jpg)
+![Supply Chain Final_006](https://user-images.githubusercontent.com/131879017/235760253-158e6678-79bd-4137-af7d-070be76f2e04.jpg)
+
+
+
+
 
 
