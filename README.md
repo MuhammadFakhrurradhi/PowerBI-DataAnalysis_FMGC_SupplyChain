@@ -1,5 +1,7 @@
 Challenge #2 : Generate Insights to Solve a Supply Chain Issue in the FMCG domain
 
+Challenge : https://codebasics.io/event/codebasics-resume-project-challenge
+
 Problem Statement:
 
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
@@ -28,3 +30,6 @@ Key Insights:
 	5. Insufficient production: If there is a significant gap in IF% for most customers, it could be due to insufficient production. This may require a review of production capacity and processes to ensure that there is enough product to meet demand.
 
 	Overall, a comprehensive review of the supply chain processes, including production, estimation, and delivery, may be required to identify the root causes of the delays and poor performance in key metrics.
+
+
+
