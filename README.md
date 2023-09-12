@@ -19,6 +19,8 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 
 Key Insights: 
 
+Power BI [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzY4N2VjNGUtZGUxOS00OGZkLWJhOTQtMGVjZjIxZDM3ZjFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 	1. Inaccurate estimation of delivery dates: If the estimated delivery dates are not realistic or based on accurate information, it can lead to delays and poor performance 	in key metrics. It may be worth reviewing the process for estimating delivery dates to ensure it is as accurate as possible.
 
 	2. Increased demand: If there has been an unexpected increase in orders, it could be causing delays and poor performance in key metrics. This may require a review of production capacity and supply chain processes to ensure they can handle the increased demand.
@@ -37,6 +39,10 @@ Key Insights:
 ![Supply Chain Final_004](https://user-images.githubusercontent.com/131879017/235760221-793ac5d9-0ac0-4d78-83a0-3eca4a45c674.jpg)
 ![Supply Chain Final_005](https://user-images.githubusercontent.com/131879017/235760231-488ef341-374e-483c-91c4-4f672fe1f3c9.jpg)
 ![Supply Chain Final_006](https://user-images.githubusercontent.com/131879017/235760253-158e6678-79bd-4137-af7d-070be76f2e04.jpg)
+
+
+Data Modelling
+![image](https://github.com/MuhammadFakhrurradhi/PowerBI-DataAnalysis_FMGC_SupplyChain/assets/131879017/ef4e14a3-6f15-4faa-a06f-3ea051b095b0)
 
 
 
